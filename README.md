@@ -43,7 +43,7 @@ The dataset has 18 CSV. The data also follow a ROCCC approach:
 •	Most data is recorded from Tuesday to Thursday, which may not be comprehensive enough to form an accurate analysis.
 
 
-![](https://raw.githubusercontent.com/david-macias-95/Bellabeat-Case_Study/imagenes/Rplot.png)
+![](https://raw.githubusercontent.com/david-macias-95/Bellabeat-Case_Study/master/imagenes/Rplot.png)
 
 
 
