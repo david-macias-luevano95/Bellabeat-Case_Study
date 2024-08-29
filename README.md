@@ -1,11 +1,11 @@
-#Scenario
+# Scenario
 
 Bellabeat it’s a compani whith a long expancion since it was fonded in 2013 quicly posisioned it self as a tech-driven wellness company for women. The company has 5 focus prosucts: bellabeat app, leaf, time,spring, and bellabeat membership. The company has a lot of potencial our team have asked to analyze smart device data to gain insight into how consimers are using their smart devices. The insights we discover will then helpguido marketing strategy fot the company. 
 
-#About a company
+# About a company
 Bellabeat, a high-tech manufacturer of health-focused products for women. Bellabeat is a successful small company, but they have the potential to become a larger player in the global smart device market. Urška Sršen, cofounder and Chief Creative Officer of Bellabeat, believes that analyzing smart device fitness data could help unlock new growth opportunities for the company
 
-#Business Task:
+# Business Task:
 
 Conduct an analysis of Bellabeat's current user data to identify trends in smart device usage and provide recommendations for improving the Bellabeat marketing strategy and identifying potential growth opportunities.
 
@@ -15,7 +15,7 @@ Conduct an analysis of Bellabeat's current user data to identify trends in smart
 •	Bellabeat marketing analytics team.
 
 
-###2 Prepare
+### 2 Prepare
 
 The data used in this case study is public, therefore, everyone can access it. In addition, it is provided by FitBit Fitness Tracker, a well known entity. Due to these reasons, we can conclude the data is credible.
 If you want to download it, click here.
@@ -43,7 +43,7 @@ The dataset has 18 CSV. The data also follow a ROCCC approach:
 •	Most data is recorded from Tuesday to Thursday, which may not be comprehensive enough to form an accurate analysis.
 
 
-![](https://raw.githubusercontent.com/david-macias-95/Bellabeat-Case_Study/master/imagenes/Rplot.png)
+![image](imagenes/Rplot.png)
 
 
 
