@@ -100,7 +100,7 @@ One interesting discoveries from this summary:
 
 
 
-![image](imagenes/Rplot06.png)
+![image](imagenes/pie_chart.png)
 
 
 
