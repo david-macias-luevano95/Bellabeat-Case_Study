@@ -1,8 +1,8 @@
 # Bellabeat Fitness Data Analysis- Case Study 
 
 -Case Study making the & spteps in th google certification 
-### 1- [Ask](#1-ask)
-### 2- [Prepare](#2-prepare)
+###  [Ask](#1-ask)
+###  [Prepare](#2-prepare)
 ### 3- [Process]
 ### 4- [Analyze]
 ### 5- [Share]
@@ -17,7 +17,7 @@ Bellabeat it’s a compani whith a long expancion since it was fonded in 2013 qu
 Bellabeat, a high-tech manufacturer of health-focused products for women. Bellabeat is a successful small company, but they have the potential to become a larger player in the global smart device market. Urška Sršen, cofounder and Chief Creative Officer of Bellabeat, believes that analyzing smart device fitness data could help unlock new growth opportunities for the company
 
 
-## 1.Ask
+## 1. Ask
 Business Task:
 
 Conduct an analysis of Bellabeat's current user data to identify trends in smart device usage and provide recommendations for improving the Bellabeat marketing strategy and identifying potential growth opportunities.
@@ -28,7 +28,7 @@ Key stakeholders
 •	Bellabeat marketing analytics team.
 
 
-## 2.Prepare
+## 2. Prepare
 
 The data used in this case study is public, therefore, everyone can access it. In addition, it is provided by FitBit Fitness Tracker, a well known entity. Due to these reasons, we can conclude the data is credible.
 To start, let’s set up the environment by downloading and opening the necessary libraries for the analysis.
