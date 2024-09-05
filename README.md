@@ -1,12 +1,13 @@
 # Bellabeat Fitness Data Analysis- Case Study 
+## David Macias Luevano
 
--Case Study making the & spteps in th google certification 
+For this case study, we will use the following methodology to answer the key questions
 ###  [Ask](#1-ask)
 ###  [Prepare](#2-prepare)
-### 3- [Process]
-### 4- [Analyze]
-### 5- [Share]
-### 6- [Act]
+###  [Process](#3-process)
+###  [Analyze](#4-analyze)
+###  [Share](#5-share)
+###  [Act](#6-act)
 
 
 ## Scenario
@@ -14,7 +15,7 @@
 Bellabeat it’s a compani whith a long expancion since it was fonded in 2013 quicly posisioned it self as a tech-driven wellness company for women. The company has 5 focus prosucts: bellabeat app, leaf, time,spring, and bellabeat membership. The company has a lot of potencial our team have asked to analyze smart device data to gain insight into how consimers are using their smart devices. The insights we discover will then helpguido marketing strategy fot the company. 
 
 ## About a company
-Bellabeat, a high-tech manufacturer of health-focused products for women. Bellabeat is a successful small company, but they have the potential to become a larger player in the global smart device market. Urška Sršen, cofounder and Chief Creative Officer of Bellabeat, believes that analyzing smart device fitness data could help unlock new growth opportunities for the company
+Bellabeat, a high-tech manufacturer of health-focused products for women. Bellabeat is a successful small company, but they have the potential to become a larger player in the global smart device market. Urška Sršen, cofounder and Chief Creative Officer of Bellabeat, believes that analyzing smart device fitness data could help unlock new growth opportunities for the company.
 
 
 ## 1. Ask
@@ -50,7 +51,7 @@ However, a larger sample size is preferred for the analysis. Upon further invest
 The data used in this case is very commun to use its formal and important for reserch
 
 
-# 3.Process
+## 3. Process
 Examine the data, check for NA, and remove duplicates for the five main tables: daily, activities, spleep, and weight:
 ```
 dim(sleep_day)
@@ -81,10 +82,14 @@ Merge the three tables:
 Clean the data to prepare for analysis in 4. Analyze!
 
 
-# 4.Analyze
+## 4. Analyze
 
 ## Summary:
 Check min, max, mean, median and any outliers. Avg weight is 135 pounds with BMI of 24 and burn 2050 calories. Avg steps is 10200, max is almost triple that 36000 steps. Users spend on avg 12 hours a day in sedentary minutes, 4 hours lightly active, only half hour in fairly+very active! Users also gets about 7 hour of sleep.
+
+ ![image](imagenes/Captura.PNG)
+
+ 
 One interesting discoveries from this summary:
 •	Average sedentary time is 991 minutes or 16 hours. Definately needs to be reduced!
 •	The majority of the participants are lightly active.
@@ -92,10 +97,10 @@ One interesting discoveries from this summary:
 •	Average total steps per day are 7638 which a little bit less for having health benefits for according to the CDC research. They found that taking 8,000 steps per day was associated with a 51% lower risk for all-cause mortality (or death from all causes). Taking 12,000 steps per day was associated with a 65% lower risk compared with taking 4,000 steps.
 
 
- ![image](imagenes/Captura.PNG)
 
 
 
+![image](imagenes/Rplot06.png)
 
 
 
@@ -108,7 +113,9 @@ during Tuesday to Thursday. This raised a question "how comprehensive are the da
 
 The American Heart Association and World Health Organization recommend at least 150 minutes of moderate-intensity activity or 75 minutes of vigorous activity, or a combination of both, each week. That means it needs an daily goal of 21.4 minutes of FairlyActiveMinutes or 10.7 minutes of VeryActiveMinutes.
 
-# 5.Share
+![image](imagenes/Rplot02.png)
+
+## 5. Share
 How active the users are weekly in total steps. Tuesday and Saturdays the users take the most steps.
 
 
@@ -116,7 +123,7 @@ How active the users are weekly in total steps. Tuesday and Saturdays the users 
 
 
 Less sedentary minutes for day is on Saturday an the day whith the most days for steps 
-# 6.Act
+## 6. Act
 ## Recommendations for Bellabeat App: Enhancing Women's Health and Wellness
 1. Encourage Daily Step Goals
 Insight: The average total steps per day for Bellabeat users is 7,638, which is below the optimal number for significant health benefits. According to CDC research, taking 8,000 steps per day is associated with a 51% lower risk of all-cause mortality, and 12,000 steps per day is associated with a 65% lower risk compared to taking 4,000 steps.
