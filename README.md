@@ -118,7 +118,9 @@ The American Heart Association and World Health Organization recommend at least 
 ## 5. Share
 How active the users are weekly in total steps. Tuesday and Saturdays the users take the most steps.
 
+### 🎨 [Bellabeat Data Analysis Dashboard](https://public.tableau.com/app/profile/david.macias6237/viz/visualization_17442526332210/Dashboard1)
 
+![Image](https://github.com/user-attachments/assets/ce2ceb30-2149-4e30-8faf-e1d8babfa952)
 
 
 
